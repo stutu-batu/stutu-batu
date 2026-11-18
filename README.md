@@ -8,8 +8,8 @@
 > *Crafting immersive digital experiences, game mechanics, and smooth user interfaces.*
 
 - 🎓 **Education:** Student at İBAL 🇹🇷
-- 🕹️ **Passion:** Developing games with Unity and experimenting with custom shaders.
-- ⚡ **Current Focus:** Refining code architecture and building creative projects.
+- 🚀 **Passion:** Witnessing my own progress and constantly pushing myself to level up even more.
+- ⚡ **Right Now:** Focusing heavily on Unity development and exploring vibe coding.
 
 ---
 
