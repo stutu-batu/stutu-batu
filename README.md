@@ -1,5 +1,5 @@
-# 👨‍💻 [Adın Soyadın]
-### **[Software developer striving to learn]**[cite: 1]
+# 👨‍💻 Batuhan KESERCİOĞLU
+### **Software developer striving to learn**[cite: 1]
 
 ---
 
