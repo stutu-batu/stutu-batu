@@ -41,7 +41,10 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,csharp,js,ts,react,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" height="40" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" alt="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML" />
 </p>
 
 ---
