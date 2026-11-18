@@ -23,20 +23,17 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=Caffeine-Crisis&theme=tokyonight&show_owner=false&hide_border=true" />
   </a>
   <!-- Replace PROJECT_NAME_2 with your actual repository name -->
-  <a href="https://github.com/stutu-batu/PROJECT_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=PROJECT_NAME_2&theme=tokyonight&show_owner=false&hide_border=true" />
+  <a href="https://github.com/stutu-batu/Galascroll">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=Galascroll&theme=tokyonight&show_owner=false&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <!-- Replace PROJECT_NAME_3 with your actual repository name -->
-  <a href="https://github.com/stutu-batu/PROJECT_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=PROJECT_NAME_3&theme=tokyonight&show_owner=false&hide_border=true" />
+  <a href="https://github.com/stutu-batu/Bedrock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=Bedrock&theme=tokyonight&show_owner=false&hide_border=true" />
   </a>
   <!-- Replace PROJECT_NAME_4 with your actual repository name -->
-  <a href="https://github.com/stutu-batu/PROJECT_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=PROJECT_NAME_4&theme=tokyonight&show_owner=false&hide_border=true" />
-  </a>
 </p>
 
 ---
