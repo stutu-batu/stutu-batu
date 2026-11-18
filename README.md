@@ -19,8 +19,8 @@
 
 <p align="center">
   <!-- Replace PROJECT_NAME_1 with your actual repository name -->
-  <a href="https://github.com/stutu-batu/PROJECT_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=PROJECT_NAME_1&theme=tokyonight&show_owner=false&hide_border=true" />
+  <a href="https://github.com/stutu-batu/Caffeine-Crisis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutu-batu&repo=Caffeine-Crisis&theme=tokyonight&show_owner=false&hide_border=true" />
   </a>
   <!-- Replace PROJECT_NAME_2 with your actual repository name -->
   <a href="https://github.com/stutu-batu/PROJECT_NAME_2">
